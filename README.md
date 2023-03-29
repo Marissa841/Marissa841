@@ -1,8 +1,4 @@
 ### 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Marissa841/Marissa841/main/steve-sharp-_hPV2DY_uXo-unsplash.jpg" width="600" height="200">
-</p>
-
 
 Hi there 👋
 
