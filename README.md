@@ -1,6 +1,6 @@
 ### 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Marissa841/Marissa841/main/steve-sharp-_hPV2DY_uXo-unsplash.jpg" width="800" height="400">
+  <img src="https://raw.githubusercontent.com/Marissa841/Marissa841/main/steve-sharp-_hPV2DY_uXo-unsplash.jpg" width="700" height="300">
 </p>
 
 
