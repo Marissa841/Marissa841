@@ -7,7 +7,7 @@ I became a data scientist because I'm passionate about using data and science-ba
 
 - 🔭 I’m currently volunteering with Omdena on predicting air pollution in Mexico using AI
 - 🌱 I’m currently freshening up on SQL with Ben Forta's book!
-- 👯 I’m looking to collaborate on on data and machine learning projects that
+- 👯 I’m looking to collaborate on data and machine learning projects
 - 💬 Ask me about predicting head injuries in the NHL
 - 🏈🥩⚾ Missouri-based
 - ⛰️ Goal: Climb Mt.Fuji before the year is out! 
