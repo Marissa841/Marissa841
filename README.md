@@ -12,7 +12,6 @@ My name is Marissa Bush and I'm a data scientist with a background in English te
 I became a data scientist because I'm passionate about using data and science-backed analysis to solve problems and create positive impact. By leveraging my skills in data analysis and visualization, I hope to make meaningful contributions to projects that make a difference in people's lives.
 
 
-- 🔭 I’m currently volunteering with Omdena on predicting air pollution in Mexico using AI
 - 🌱 I’m currently freshening up on SQL with Ben Forta's book!
 - 👯 I’m looking to collaborate on data and machine learning projects
 - 💬 Ask me about predicting head injuries in the NHL
