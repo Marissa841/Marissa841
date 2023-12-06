@@ -17,4 +17,3 @@ I became a data scientist because I'm passionate about using data and science-ba
 - 👯 I’m looking to collaborate on data and machine learning projects
 - 💬 Ask me about predicting head injuries in the NHL
 - 🏈🥩⚾ Missouri-based
-- ⛰️ Goal: Travel to view the Northern Lights before the winter season ends! 
