@@ -9,4 +9,4 @@ I became a data scientist because I'm passionate about using data and science-ba
 - 🌱 I’m currently reading Nate Silver's The Signal and the Noise: Why So Many Predictions Fail-but Some Don't
 - 👯 I’m looking to collaborate on data and machine learning projects
 - 💬 Ask me about predicting head injuries in the NHL
-- 🏈🥩⚾ Missouri-based
+- Missouri-based
